@@ -1,0 +1,1 @@
+ssh -i oden-chocam-bd.pem centos@ec2-54-180-162-27.ap-northeast-2.compute.amazonaws.com
